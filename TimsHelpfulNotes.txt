@@ -1,0 +1,6 @@
+Helpful oTree Notes
+
+- to add a new game, open settings.py and modify SESSION_CONFIGS
+- make sure name is consistent with newly created directory/game
+
+- to edit a current game, edit the models.py file for the game
